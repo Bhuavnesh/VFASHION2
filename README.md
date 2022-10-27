@@ -5,7 +5,8 @@ This is a web based application developed for fashion related website in india
 ### This web based fashion application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://vfashion.azurewebsites.net/
+**Project Link** - https://vfashion.azurewebsites.net
+**project app link** -https://vfashionapp.azurewebsites.net
 
 
 ## Features and Functionalities 😃
